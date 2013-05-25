@@ -1,0 +1,11 @@
+{
+	  "name": "meteor-flash-messages",
+	  "description": "A pattern to display application errors to the user (as in Discover Meteor book by Tom Coleman)",
+	  "homepage": "https://github.com/andreavaghi/meteor-flash-messages",
+	  "author": "Andrea Vaghi <andreavaghi@gmail.com>",
+	  "version": "0.1.0",
+	  "git": "https://github.com/andreavaghi/meteor-flash-messages.git",
+	  "packages": {
+
+	  }
+}
